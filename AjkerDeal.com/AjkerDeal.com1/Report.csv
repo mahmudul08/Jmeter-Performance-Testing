@@ -1,0 +1,201 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1659018060170,7433,Homepage,200,OK,Thread Group 1-1,text,true,,215024,117,10,10,https://ajkerdeal.com/,1891,0,1033
+1659018060862,6923,Homepage,200,OK,Thread Group 1-9,text,true,,215024,117,10,10,https://ajkerdeal.com/,1426,0,543
+1659018060264,7946,Homepage,200,OK,Thread Group 1-3,text,true,,215024,117,10,10,https://ajkerdeal.com/,2206,0,935
+1659018060563,7728,Homepage,200,OK,Thread Group 1-6,text,true,,215024,117,10,10,https://ajkerdeal.com/,1034,0,527
+1659018060462,7950,Homepage,200,OK,Thread Group 1-5,text,true,,215024,117,10,10,https://ajkerdeal.com/,1222,0,564
+1659018060662,8455,Homepage,200,OK,Thread Group 1-7,text,true,,215024,117,10,10,https://ajkerdeal.com/,1773,0,541
+1659018060960,8382,Homepage,200,OK,Thread Group 1-10,text,true,,215024,117,10,10,https://ajkerdeal.com/,4043,0,3536
+1659018060170,9398,Homepage,200,OK,Thread Group 1-2,text,true,,215024,117,10,10,https://ajkerdeal.com/,2622,0,1461
+1659018060761,9010,Homepage,200,OK,Thread Group 1-8,text,true,,215024,117,10,10,https://ajkerdeal.com/,2689,0,1637
+1659018060363,10761,Homepage,200,OK,Thread Group 1-4,text,true,,215024,117,10,10,https://ajkerdeal.com/,1254,0,664
+1659018067604,5148,Bangla to English,200,OK,Thread Group 1-1,text,true,,197136,120,10,10,https://ajkerdeal.com/en/,1469,0,0
+1659018068211,5884,Bangla to English,200,OK,Thread Group 1-3,text,true,,197136,120,10,10,https://ajkerdeal.com/en/,513,0,0
+1659018068412,5927,Bangla to English,200,OK,Thread Group 1-5,text,true,,197136,120,10,10,https://ajkerdeal.com/en/,489,0,0
+1659018067786,6933,Bangla to English,200,OK,Thread Group 1-9,text,true,,197136,120,10,10,https://ajkerdeal.com/en/,703,0,0
+1659018068291,6853,Bangla to English,200,OK,Thread Group 1-6,text,true,,197136,120,10,10,https://ajkerdeal.com/en/,1145,0,0
+1659018069569,6139,Bangla to English,200,OK,Thread Group 1-2,text,true,,197136,120,10,10,https://ajkerdeal.com/en/,544,0,0
+1659018074340,2072,Registration page,200,OK,Thread Group 1-5,text,true,,38644,151,10,10,https://ajkerdeal.com/customers/registersingleorder.aspx,1695,0,0
+1659018074096,2764,Registration page,200,OK,Thread Group 1-3,text,true,,38644,151,10,10,https://ajkerdeal.com/customers/registersingleorder.aspx,2078,0,0
+1659018072753,4722,Registration page,200,OK,Thread Group 1-1,text,true,,38644,151,10,10,https://ajkerdeal.com/customers/registersingleorder.aspx,3675,0,0
+1659018069772,7827,Bangla to English,200,OK,Thread Group 1-8,text,true,,197136,120,10,10,https://ajkerdeal.com/en/,883,0,0
+1659018074720,3187,Registration page,200,OK,Thread Group 1-9,text,true,,38644,151,10,10,https://ajkerdeal.com/customers/registersingleorder.aspx,2680,0,0
+1659018071124,6867,Bangla to English,200,OK,Thread Group 1-4,text,true,,197136,120,10,10,https://ajkerdeal.com/en/,1050,0,0
+1659018069118,9059,Bangla to English,200,OK,Thread Group 1-7,text,true,,197136,120,10,10,https://ajkerdeal.com/en/,672,0,0
+1659018075708,2579,Registration page,200,OK,Thread Group 1-2,text,true,,38644,151,10,10,https://ajkerdeal.com/customers/registersingleorder.aspx,1731,0,0
+1659018075145,3501,Registration page,200,OK,Thread Group 1-6,text,true,,38644,151,10,10,https://ajkerdeal.com/customers/registersingleorder.aspx,2845,0,0
+1659018069343,10399,Bangla to English,200,OK,Thread Group 1-10,text,true,,197136,120,10,10,https://ajkerdeal.com/en/,672,0,0
+1659018078178,2041,Registration page,200,OK,Thread Group 1-7,text,true,,38644,151,10,10,https://ajkerdeal.com/customers/registersingleorder.aspx,1747,0,0
+1659018077991,2243,Registration page,200,OK,Thread Group 1-4,text,true,,38644,151,10,10,https://ajkerdeal.com/customers/registersingleorder.aspx,1869,0,0
+1659018077599,3324,Registration page,200,OK,Thread Group 1-8,text,true,,38644,151,10,10,https://ajkerdeal.com/customers/registersingleorder.aspx,2831,0,0
+1659018079743,2366,Registration page,200,OK,Thread Group 1-10,text,true,,38644,151,10,10,https://ajkerdeal.com/customers/registersingleorder.aspx,1864,0,0
+1659018076413,8759,After Login,200,OK,Thread Group 1-5,text,true,,215525,260,10,10,https://www.ajkerdeal.com/,165,0,0
+1659018076413,165,After Login-0,302,Found,Thread Group 1-5,text,true,,501,139,10,10,https://ajkerdeal.com/customers/default.aspx,165,0,0
+1659018076579,8593,After Login-1,200,OK,Thread Group 1-5,text,true,,215024,121,10,10,https://www.ajkerdeal.com/,3476,0,2601
+1659018077907,7491,After Login,200,OK,Thread Group 1-9,text,true,,215525,260,10,10,https://www.ajkerdeal.com/,171,0,0
+1659018077907,171,After Login-0,302,Found,Thread Group 1-9,text,true,,501,139,10,10,https://ajkerdeal.com/customers/default.aspx,171,0,0
+1659018078078,7320,After Login-1,200,OK,Thread Group 1-9,text,true,,215024,121,10,10,https://www.ajkerdeal.com/,1760,0,1097
+1659018078287,7291,After Login,200,OK,Thread Group 1-2,text,true,,215525,260,10,10,https://www.ajkerdeal.com/,1017,0,0
+1659018078287,1017,After Login-0,302,Found,Thread Group 1-2,text,true,,501,139,10,10,https://ajkerdeal.com/customers/default.aspx,1017,0,0
+1659018079304,6274,After Login-1,200,OK,Thread Group 1-2,text,true,,215024,121,10,10,https://www.ajkerdeal.com/,1183,0,523
+1659018076860,9079,After Login,200,OK,Thread Group 1-3,text,true,,215525,260,10,10,https://www.ajkerdeal.com/,179,0,0
+1659018076860,179,After Login-0,302,Found,Thread Group 1-3,text,true,,501,139,10,10,https://ajkerdeal.com/customers/default.aspx,179,0,0
+1659018077040,8899,After Login-1,200,OK,Thread Group 1-3,text,true,,215024,121,10,10,https://www.ajkerdeal.com/,3663,0,2985
+1659018080235,6025,After Login,200,OK,Thread Group 1-4,text,true,,215525,260,10,10,https://www.ajkerdeal.com/,165,0,0
+1659018080235,165,After Login-0,302,Found,Thread Group 1-4,text,true,,501,139,10,10,https://ajkerdeal.com/customers/default.aspx,165,0,0
+1659018080401,5859,After Login-1,200,OK,Thread Group 1-4,text,true,,215024,121,10,10,https://www.ajkerdeal.com/,1233,0,531
+1659018080219,6481,After Login,200,OK,Thread Group 1-7,text,true,,215525,260,10,10,https://www.ajkerdeal.com/,169,0,0
+1659018080219,169,After Login-0,302,Found,Thread Group 1-7,text,true,,501,139,10,10,https://ajkerdeal.com/customers/default.aspx,169,0,0
+1659018080388,6312,After Login-1,200,OK,Thread Group 1-7,text,true,,215024,121,10,10,https://www.ajkerdeal.com/,1065,0,550
+1659018077475,9664,After Login,200,OK,Thread Group 1-1,text,true,,215525,260,10,10,https://www.ajkerdeal.com/,1142,0,0
+1659018077475,1142,After Login-0,302,Found,Thread Group 1-1,text,true,,501,139,10,10,https://ajkerdeal.com/customers/default.aspx,1142,0,0
+1659018078617,8522,After Login-1,200,OK,Thread Group 1-1,text,true,,215024,121,10,10,https://www.ajkerdeal.com/,1273,0,567
+1659018080924,6388,After Login,200,OK,Thread Group 1-8,text,true,,215525,260,10,10,https://www.ajkerdeal.com/,165,0,0
+1659018080924,165,After Login-0,302,Found,Thread Group 1-8,text,true,,501,139,10,10,https://ajkerdeal.com/customers/default.aspx,165,0,0
+1659018081090,6222,After Login-1,200,OK,Thread Group 1-8,text,true,,215024,121,10,10,https://www.ajkerdeal.com/,1062,0,538
+1659018085173,2362,Search,200,OK,Thread Group 1-5,text,true,,133186,144,10,10,https://ajkerdeal.com/searchproduct.aspx?kw=shirt,330,0,0
+1659018082109,5689,After Login,200,OK,Thread Group 1-10,text,true,,215525,260,10,10,https://www.ajkerdeal.com/,170,0,0
+1659018082109,170,After Login-0,302,Found,Thread Group 1-10,text,true,,501,139,10,10,https://ajkerdeal.com/customers/default.aspx,170,0,0
+1659018082279,5519,After Login-1,200,OK,Thread Group 1-10,text,true,,215024,121,10,10,https://www.ajkerdeal.com/,1804,0,1135
+1659018085398,2588,Search,200,OK,Thread Group 1-9,text,true,,133186,144,10,10,https://ajkerdeal.com/searchproduct.aspx?kw=shirt,511,0,0
+1659018078646,9397,After Login,200,OK,Thread Group 1-6,text,true,,215525,260,10,10,https://www.ajkerdeal.com/,301,0,0
+1659018078646,301,After Login-0,302,Found,Thread Group 1-6,text,true,,501,139,10,10,https://ajkerdeal.com/customers/default.aspx,301,0,0
+1659018078947,9096,After Login-1,200,OK,Thread Group 1-6,text,true,,215024,121,10,10,https://www.ajkerdeal.com/,1852,0,1173
+1659018086261,2143,Search,200,OK,Thread Group 1-4,text,true,,133186,144,10,10,https://ajkerdeal.com/searchproduct.aspx?kw=shirt,332,0,0
+1659018085579,3168,Search,200,OK,Thread Group 1-2,text,true,,133186,144,10,10,https://ajkerdeal.com/searchproduct.aspx?kw=shirt,905,0,0
+1659018086700,2393,Search,200,OK,Thread Group 1-7,text,true,,133186,144,10,10,https://ajkerdeal.com/searchproduct.aspx?kw=shirt,506,0,0
+1659018087535,2031,Customer Complain,200,OK,Thread Group 1-5,text,true,,122217,138,10,10,https://ajkerdeal.com/customercomplain.aspx,328,0,0
+1659018087312,2389,Search,200,OK,Thread Group 1-8,text,true,,133186,144,10,10,https://ajkerdeal.com/searchproduct.aspx?kw=shirt,333,0,0
+1659018085939,3774,Search,200,OK,Thread Group 1-3,text,true,,133186,144,10,10,https://ajkerdeal.com/searchproduct.aspx?kw=shirt,346,0,0
+1659018087987,1780,Customer Complain,200,OK,Thread Group 1-9,text,true,,122217,138,10,10,https://ajkerdeal.com/customercomplain.aspx,510,0,0
+1659018088405,1579,Customer Complain,200,OK,Thread Group 1-4,text,true,,122217,138,10,10,https://ajkerdeal.com/customercomplain.aspx,331,0,0
+1659018087799,2273,Search,200,OK,Thread Group 1-10,text,true,,133186,144,10,10,https://ajkerdeal.com/searchproduct.aspx?kw=shirt,505,0,0
+1659018087139,3342,Search,200,OK,Thread Group 1-1,text,true,,133186,144,10,10,https://ajkerdeal.com/searchproduct.aspx?kw=shirt,946,0,0
+1659018089093,1774,Customer Complain,200,OK,Thread Group 1-7,text,true,,122217,138,10,10,https://ajkerdeal.com/customercomplain.aspx,185,0,0
+1659018089768,1241,Track Order,200,OK,Thread Group 1-9,text,true,,112020,140,10,10,https://ajkerdeal.com/trackorder/default.aspx,205,0,0
+1659018088747,2549,Customer Complain,200,OK,Thread Group 1-2,text,true,,122217,138,10,10,https://ajkerdeal.com/customercomplain.aspx,496,0,0
+1659018088044,3489,Search,200,OK,Thread Group 1-6,text,true,,133186,144,10,10,https://ajkerdeal.com/searchproduct.aspx?kw=shirt,498,0,0
+1659018089566,2325,Track Order,200,OK,Thread Group 1-5,text,true,,112020,140,10,10,https://ajkerdeal.com/trackorder/default.aspx,344,0,0
+1659018089701,2228,Customer Complain,200,OK,Thread Group 1-8,text,true,,122217,138,10,10,https://ajkerdeal.com/customercomplain.aspx,337,0,0
+1659018089984,2260,Track Order,200,OK,Thread Group 1-4,text,true,,112020,140,10,10,https://ajkerdeal.com/trackorder/default.aspx,390,0,0
+1659018090074,3225,Customer Complain,200,OK,Thread Group 1-10,text,true,,122217,138,10,10,https://ajkerdeal.com/customercomplain.aspx,436,0,0
+1659018091296,2508,Track Order,200,OK,Thread Group 1-2,text,true,,112020,140,10,10,https://ajkerdeal.com/trackorder/default.aspx,331,0,0
+1659018089713,4385,Customer Complain,200,OK,Thread Group 1-3,text,true,,122217,138,10,10,https://ajkerdeal.com/customercomplain.aspx,1543,0,0
+1659018090481,3742,Customer Complain,200,OK,Thread Group 1-1,text,true,,122217,138,10,10,https://ajkerdeal.com/customercomplain.aspx,694,0,0
+1659018091533,3801,Customer Complain,200,OK,Thread Group 1-6,text,true,,122217,138,10,10,https://ajkerdeal.com/customercomplain.aspx,497,0,0
+1659018093299,3387,Track Order,200,OK,Thread Group 1-10,text,true,,112020,140,10,10,https://ajkerdeal.com/trackorder/default.aspx,698,0,0
+1659018094223,3165,Track Order,200,OK,Thread Group 1-1,text,true,,112020,140,10,10,https://ajkerdeal.com/trackorder/default.aspx,901,0,0
+1659018090867,6636,Track Order,200,OK,Thread Group 1-7,text,true,,112020,140,10,10,https://ajkerdeal.com/trackorder/default.aspx,914,0,0
+1659018091009,6672,Category,200,OK,Thread Group 1-9,text,true,,169631,151,10,10,https://ajkerdeal.com/category/mens-shopping-pants-jeans,580,0,0
+1659018091891,6248,Category,200,OK,Thread Group 1-5,text,true,,169631,151,10,10,https://ajkerdeal.com/category/mens-shopping-pants-jeans,1841,0,0
+1659018091930,6696,Track Order,200,OK,Thread Group 1-8,text,true,,112020,140,10,10,https://ajkerdeal.com/trackorder/default.aspx,2169,0,0
+1659018092245,6450,Category,200,OK,Thread Group 1-4,text,true,,169631,151,10,10,https://ajkerdeal.com/category/mens-shopping-pants-jeans,554,0,0
+1659018097681,1457,Add Shopping Cart,200,OK,Thread Group 1-9,text,true,,29060,299,10,10,https://ajkerdeal.com/cart/cartsignin.aspx?spId=331757,442,0,0
+1659018097681,442,Add Shopping Cart-0,302,Found,Thread Group 1-9,text,true,,557,150,10,10,https://ajkerdeal.com/cart/cartcheckout.aspx?for=331757,442,0,0
+1659018098124,1014,Add Shopping Cart-1,200,OK,Thread Group 1-9,text,true,,28503,149,10,10,https://ajkerdeal.com/cart/cartsignin.aspx?spId=331757,846,0,0
+1659018098140,1179,Add Shopping Cart,200,OK,Thread Group 1-5,text,true,,29060,299,10,10,https://ajkerdeal.com/cart/cartsignin.aspx?spId=331757,477,0,0
+1659018098140,477,Add Shopping Cart-0,302,Found,Thread Group 1-5,text,true,,557,150,10,10,https://ajkerdeal.com/cart/cartcheckout.aspx?for=331757,477,0,0
+1659018098617,702,Add Shopping Cart-1,200,OK,Thread Group 1-5,text,true,,28503,149,10,10,https://ajkerdeal.com/cart/cartsignin.aspx?spId=331757,540,0,0
+1659018095334,5082,Track Order,200,OK,Thread Group 1-6,text,true,,112020,140,10,10,https://ajkerdeal.com/trackorder/default.aspx,1725,0,0
+1659018098696,1863,Add Shopping Cart,200,OK,Thread Group 1-4,text,true,,29060,299,10,10,https://ajkerdeal.com/cart/cartsignin.aspx?spId=331757,548,0,0
+1659018098696,548,Add Shopping Cart-0,302,Found,Thread Group 1-4,text,true,,557,150,10,10,https://ajkerdeal.com/cart/cartcheckout.aspx?for=331757,548,0,0
+1659018099245,1314,Add Shopping Cart-1,200,OK,Thread Group 1-4,text,true,,28503,149,10,10,https://ajkerdeal.com/cart/cartsignin.aspx?spId=331757,1072,0,0
+1659018094098,6481,Track Order,200,OK,Thread Group 1-3,text,true,,112020,140,10,10,https://ajkerdeal.com/trackorder/default.aspx,1382,0,0
+1659018093804,7354,Category,200,OK,Thread Group 1-2,text,true,,169631,151,10,10,https://ajkerdeal.com/category/mens-shopping-pants-jeans,553,0,0
+1659018096687,5247,Category,200,OK,Thread Group 1-10,text,true,,169631,151,10,10,https://ajkerdeal.com/category/mens-shopping-pants-jeans,560,0,0
+1659018101935,1354,Add Shopping Cart,200,OK,Thread Group 1-10,text,true,,29060,299,10,10,https://ajkerdeal.com/cart/cartsignin.aspx?spId=331757,462,0,0
+1659018101935,462,Add Shopping Cart-0,302,Found,Thread Group 1-10,text,true,,557,150,10,10,https://ajkerdeal.com/cart/cartcheckout.aspx?for=331757,462,0,0
+1659018102397,892,Add Shopping Cart-1,200,OK,Thread Group 1-10,text,true,,28503,149,10,10,https://ajkerdeal.com/cart/cartsignin.aspx?spId=331757,557,0,0
+1659018097389,5918,Category,200,OK,Thread Group 1-1,text,true,,169631,151,10,10,https://ajkerdeal.com/category/mens-shopping-pants-jeans,712,0,0
+1659018097504,6677,Category,200,OK,Thread Group 1-7,text,true,,169631,151,10,10,https://ajkerdeal.com/category/mens-shopping-pants-jeans,1087,0,0
+1659018101158,3423,Add Shopping Cart,200,OK,Thread Group 1-2,text,true,,29060,299,10,10,https://ajkerdeal.com/cart/cartsignin.aspx?spId=331757,439,0,0
+1659018101158,439,Add Shopping Cart-0,302,Found,Thread Group 1-2,text,true,,557,150,10,10,https://ajkerdeal.com/cart/cartcheckout.aspx?for=331757,439,0,0
+1659018101597,2984,Add Shopping Cart-1,200,OK,Thread Group 1-2,text,true,,28503,149,10,10,https://ajkerdeal.com/cart/cartsignin.aspx?spId=331757,2282,0,0
+1659018100417,4451,Category,200,OK,Thread Group 1-6,text,true,,169631,151,10,10,https://ajkerdeal.com/category/mens-shopping-pants-jeans,754,0,0
+1659018098626,6428,Category,200,OK,Thread Group 1-8,text,true,,169631,151,10,10,https://ajkerdeal.com/category/mens-shopping-pants-jeans,1650,0,0
+1659018099139,5927,Product Check,200,OK,Thread Group 1-9,text,true,,199460,154,10,10,https://ajkerdeal.com/Product/1388498/Mens-Denim-Jeans-Pant,987,0,0
+1659018103307,2558,Add Shopping Cart,200,OK,Thread Group 1-1,text,true,,29060,299,10,10,https://ajkerdeal.com/cart/cartsignin.aspx?spId=331757,442,0,0
+1659018103307,442,Add Shopping Cart-0,302,Found,Thread Group 1-1,text,true,,557,150,10,10,https://ajkerdeal.com/cart/cartcheckout.aspx?for=331757,442,0,0
+1659018103749,2116,Add Shopping Cart-1,200,OK,Thread Group 1-1,text,true,,28503,149,10,10,https://ajkerdeal.com/cart/cartsignin.aspx?spId=331757,514,0,0
+1659018104182,1818,Add Shopping Cart,200,OK,Thread Group 1-7,text,true,,29060,299,10,10,https://ajkerdeal.com/cart/cartsignin.aspx?spId=331757,468,0,0
+1659018104182,468,Add Shopping Cart-0,302,Found,Thread Group 1-7,text,true,,557,150,10,10,https://ajkerdeal.com/cart/cartcheckout.aspx?for=331757,468,0,0
+1659018104650,1350,Add Shopping Cart-1,200,OK,Thread Group 1-7,text,true,,28503,149,10,10,https://ajkerdeal.com/cart/cartsignin.aspx?spId=331757,1182,0,0
+1659018100580,5423,Category,200,OK,Thread Group 1-3,text,true,,169631,151,10,10,https://ajkerdeal.com/category/mens-shopping-pants-jeans,602,0,0
+1659018104869,1164,Add Shopping Cart,200,OK,Thread Group 1-6,text,true,,29060,299,10,10,https://ajkerdeal.com/cart/cartsignin.aspx?spId=331757,463,0,0
+1659018104869,463,Add Shopping Cart-0,302,Found,Thread Group 1-6,text,true,,557,150,10,10,https://ajkerdeal.com/cart/cartcheckout.aspx?for=331757,463,0,0
+1659018105332,701,Add Shopping Cart-1,200,OK,Thread Group 1-6,text,true,,28503,149,10,10,https://ajkerdeal.com/cart/cartsignin.aspx?spId=331757,496,0,0
+1659018099320,7470,Product Check,200,OK,Thread Group 1-5,text,true,,199463,154,10,10,https://ajkerdeal.com/Product/1388498/Mens-Denim-Jeans-Pant,642,0,0
+1659018105066,1745,Use Coupons Page,200,OK,Thread Group 1-9,text,true,,28395,295,10,10,https://ajkerdeal.com/coupons/signin_new.aspx,194,0,0
+1659018105066,194,Use Coupons Page-0,302,Found,Thread Group 1-9,text,true,,539,155,10,10,https://ajkerdeal.com/coupons/singlecheckout.aspx?di=1388498,194,0,0
+1659018105261,1550,Use Coupons Page-1,200,OK,Thread Group 1-9,text,true,,27856,140,10,10,https://ajkerdeal.com/coupons/signin_new.aspx,1212,0,0
+1659018105054,1909,Add Shopping Cart,200,OK,Thread Group 1-8,text,true,,29060,299,10,10,https://ajkerdeal.com/cart/cartsignin.aspx?spId=331757,441,0,0
+1659018105054,441,Add Shopping Cart-0,302,Found,Thread Group 1-8,text,true,,557,150,10,10,https://ajkerdeal.com/cart/cartcheckout.aspx?for=331757,441,0,0
+1659018105495,1468,Add Shopping Cart-1,200,OK,Thread Group 1-8,text,true,,28503,149,10,10,https://ajkerdeal.com/cart/cartsignin.aspx?spId=331757,1139,0,0
+1659018106003,1128,Add Shopping Cart,200,OK,Thread Group 1-3,text,true,,29060,299,10,10,https://ajkerdeal.com/cart/cartsignin.aspx?spId=331757,618,0,0
+1659018106003,618,Add Shopping Cart-0,302,Found,Thread Group 1-3,text,true,,557,150,10,10,https://ajkerdeal.com/cart/cartcheckout.aspx?for=331757,618,0,0
+1659018106621,510,Add Shopping Cart-1,200,OK,Thread Group 1-3,text,true,,28503,149,10,10,https://ajkerdeal.com/cart/cartsignin.aspx?spId=331757,341,0,0
+1659018100560,6897,Product Check,200,OK,Thread Group 1-4,text,true,,199463,154,10,10,https://ajkerdeal.com/Product/1388498/Mens-Denim-Jeans-Pant,1459,0,0
+1659018106791,1469,Use Coupons Page,200,OK,Thread Group 1-5,text,true,,28395,295,10,10,https://ajkerdeal.com/coupons/signin_new.aspx,187,0,0
+1659018106791,187,Use Coupons Page-0,302,Found,Thread Group 1-5,text,true,,539,155,10,10,https://ajkerdeal.com/coupons/singlecheckout.aspx?di=1388498,187,0,0
+1659018106978,1282,Use Coupons Page-1,200,OK,Thread Group 1-5,text,true,,27856,140,10,10,https://ajkerdeal.com/coupons/signin_new.aspx,958,0,0
+1659018107457,1652,Use Coupons Page,200,OK,Thread Group 1-4,text,true,,28395,295,10,10,https://ajkerdeal.com/coupons/signin_new.aspx,189,0,0
+1659018107457,189,Use Coupons Page-0,302,Found,Thread Group 1-4,text,true,,539,155,10,10,https://ajkerdeal.com/coupons/singlecheckout.aspx?di=1388498,189,0,0
+1659018107646,1463,Use Coupons Page-1,200,OK,Thread Group 1-4,text,true,,27856,140,10,10,https://ajkerdeal.com/coupons/signin_new.aspx,660,0,0
+1659018103289,6687,Product Check,200,OK,Thread Group 1-10,text,true,,199463,154,10,10,https://ajkerdeal.com/Product/1388498/Mens-Denim-Jeans-Pant,662,0,0
+1659018104581,6420,Product Check,200,OK,Thread Group 1-2,text,true,,199463,154,10,10,https://ajkerdeal.com/Product/1388498/Mens-Denim-Jeans-Pant,817,0,0
+1659018106001,5207,Product Check,200,OK,Thread Group 1-7,text,true,,199463,154,10,10,https://ajkerdeal.com/Product/1388498/Mens-Denim-Jeans-Pant,792,0,0
+1659018109976,1580,Use Coupons Page,200,OK,Thread Group 1-10,text,true,,28395,295,10,10,https://ajkerdeal.com/coupons/signin_new.aspx,188,0,0
+1659018109976,188,Use Coupons Page-0,302,Found,Thread Group 1-10,text,true,,539,155,10,10,https://ajkerdeal.com/coupons/singlecheckout.aspx?di=1388498,188,0,0
+1659018110164,1392,Use Coupons Page-1,200,OK,Thread Group 1-10,text,true,,27856,140,10,10,https://ajkerdeal.com/coupons/signin_new.aspx,933,0,0
+1659018111002,677,Use Coupons Page,200,OK,Thread Group 1-2,text,true,,28395,295,10,10,https://ajkerdeal.com/coupons/signin_new.aspx,184,0,0
+1659018111002,184,Use Coupons Page-0,302,Found,Thread Group 1-2,text,true,,539,155,10,10,https://ajkerdeal.com/coupons/singlecheckout.aspx?di=1388498,184,0,0
+1659018111186,493,Use Coupons Page-1,200,OK,Thread Group 1-2,text,true,,27856,140,10,10,https://ajkerdeal.com/coupons/signin_new.aspx,330,0,0
+1659018111209,1670,Use Coupons Page,200,OK,Thread Group 1-7,text,true,,28395,295,10,10,https://ajkerdeal.com/coupons/signin_new.aspx,190,0,0
+1659018111209,190,Use Coupons Page-0,302,Found,Thread Group 1-7,text,true,,539,155,10,10,https://ajkerdeal.com/coupons/singlecheckout.aspx?di=1388498,190,0,0
+1659018111399,1480,Use Coupons Page-1,200,OK,Thread Group 1-7,text,true,,27856,140,10,10,https://ajkerdeal.com/coupons/signin_new.aspx,1312,0,0
+1659018108260,4646,Refund Policy,200,OK,Thread Group 1-5,text,true,,115629,134,10,10,https://ajkerdeal.com/refundpolicy.aspx,1054,0,0
+1659018109109,4137,Refund Policy,200,OK,Thread Group 1-4,text,true,,115629,134,10,10,https://ajkerdeal.com/refundpolicy.aspx,770,0,0
+1659018105866,7404,Product Check,200,OK,Thread Group 1-1,text,true,,199463,154,10,10,https://ajkerdeal.com/Product/1388498/Mens-Denim-Jeans-Pant,1173,0,0
+1659018106034,7767,Product Check,200,OK,Thread Group 1-6,text,true,,199460,154,10,10,https://ajkerdeal.com/Product/1388498/Mens-Denim-Jeans-Pant,753,0,0
+1659018106811,7976,Refund Policy,200,OK,Thread Group 1-9,text,true,,115629,134,10,10,https://ajkerdeal.com/refundpolicy.aspx,589,0,0
+1659018113270,1569,Use Coupons Page,200,OK,Thread Group 1-1,text,true,,28395,295,10,10,https://ajkerdeal.com/coupons/signin_new.aspx,193,0,0
+1659018113270,193,Use Coupons Page-0,302,Found,Thread Group 1-1,text,true,,539,155,10,10,https://ajkerdeal.com/coupons/singlecheckout.aspx?di=1388498,193,0,0
+1659018113463,1376,Use Coupons Page-1,200,OK,Thread Group 1-1,text,true,,27856,140,10,10,https://ajkerdeal.com/coupons/signin_new.aspx,343,0,0
+1659018113802,1431,Use Coupons Page,200,OK,Thread Group 1-6,text,true,,28395,295,10,10,https://ajkerdeal.com/coupons/signin_new.aspx,185,0,0
+1659018113802,185,Use Coupons Page-0,302,Found,Thread Group 1-6,text,true,,539,155,10,10,https://ajkerdeal.com/coupons/singlecheckout.aspx?di=1388498,185,0,0
+1659018113987,1246,Use Coupons Page-1,200,OK,Thread Group 1-6,text,true,,27856,140,10,10,https://ajkerdeal.com/coupons/signin_new.aspx,703,0,0
+1659018106963,9248,Product Check,200,OK,Thread Group 1-8,text,true,,199463,154,10,10,https://ajkerdeal.com/Product/1388498/Mens-Denim-Jeans-Pant,643,0,0
+1659018113246,3685,Replacement Policy,200,OK,Thread Group 1-4,text,true,,110617,139,10,10,https://ajkerdeal.com/replacementpolicy.aspx,1511,0,0
+1659018116211,895,Use Coupons Page,200,OK,Thread Group 1-8,text,true,,28395,295,10,10,https://ajkerdeal.com/coupons/signin_new.aspx,190,0,0
+1659018116211,190,Use Coupons Page-0,302,Found,Thread Group 1-8,text,true,,539,155,10,10,https://ajkerdeal.com/coupons/singlecheckout.aspx?di=1388498,190,0,0
+1659018116401,705,Use Coupons Page-1,200,OK,Thread Group 1-8,text,true,,27856,140,10,10,https://ajkerdeal.com/coupons/signin_new.aspx,497,0,0
+1659018112879,4354,Refund Policy,200,OK,Thread Group 1-7,text,true,,115629,134,10,10,https://ajkerdeal.com/refundpolicy.aspx,915,0,0
+1659018111557,5741,Refund Policy,200,OK,Thread Group 1-10,text,true,,115629,134,10,10,https://ajkerdeal.com/refundpolicy.aspx,912,0,0
+1659018107132,10511,Product Check,200,OK,Thread Group 1-3,text,true,,199460,154,10,10,https://ajkerdeal.com/Product/1388498/Mens-Denim-Jeans-Pant,2261,0,0
+1659018111680,6055,Refund Policy,200,OK,Thread Group 1-2,text,true,,115629,134,10,10,https://ajkerdeal.com/refundpolicy.aspx,568,0,0
+1659018117643,1037,Use Coupons Page,200,OK,Thread Group 1-3,text,true,,28395,295,10,10,https://ajkerdeal.com/coupons/signin_new.aspx,190,0,0
+1659018117643,190,Use Coupons Page-0,302,Found,Thread Group 1-3,text,true,,539,155,10,10,https://ajkerdeal.com/coupons/singlecheckout.aspx?di=1388498,190,0,0
+1659018117833,847,Use Coupons Page-1,200,OK,Thread Group 1-3,text,true,,27856,140,10,10,https://ajkerdeal.com/coupons/signin_new.aspx,678,0,0
+1659018112907,6819,Replacement Policy,200,OK,Thread Group 1-5,text,true,,110617,139,10,10,https://ajkerdeal.com/replacementpolicy.aspx,1501,0,0
+1659018117106,2721,Refund Policy,200,OK,Thread Group 1-8,text,true,,115629,134,10,10,https://ajkerdeal.com/refundpolicy.aspx,401,0,0
+1659018114788,5749,Replacement Policy,200,OK,Thread Group 1-9,text,true,,110617,139,10,10,https://ajkerdeal.com/replacementpolicy.aspx,2075,0,0
+1659018116932,3628,Contact Us,200,OK,Thread Group 1-4,text,true,,119419,131,10,10,https://ajkerdeal.com/contactus.aspx,1122,0,0
+1659018114839,5784,Refund Policy,200,OK,Thread Group 1-1,text,true,,115629,134,9,9,https://ajkerdeal.com/refundpolicy.aspx,1444,0,0
+1659018118680,2328,Refund Policy,200,OK,Thread Group 1-3,text,true,,115629,134,9,9,https://ajkerdeal.com/refundpolicy.aspx,424,0,0
+1659018117233,3836,Replacement Policy,200,OK,Thread Group 1-7,text,true,,110617,139,9,9,https://ajkerdeal.com/replacementpolicy.aspx,804,0,0
+1659018117735,4051,Replacement Policy,200,OK,Thread Group 1-2,text,true,,110617,139,9,9,https://ajkerdeal.com/replacementpolicy.aspx,607,0,0
+1659018115233,6962,Refund Policy,200,OK,Thread Group 1-6,text,true,,115629,134,9,9,https://ajkerdeal.com/refundpolicy.aspx,1223,0,0
+1659018120623,3371,Replacement Policy,200,OK,Thread Group 1-1,text,true,,110617,139,9,9,https://ajkerdeal.com/replacementpolicy.aspx,1110,0,349
+1659018119828,4256,Replacement Policy,200,OK,Thread Group 1-8,text,true,,110617,139,9,9,https://ajkerdeal.com/replacementpolicy.aspx,437,0,0
+1659018117298,7093,Replacement Policy,200,OK,Thread Group 1-10,text,true,,110617,139,9,9,https://ajkerdeal.com/replacementpolicy.aspx,1896,0,0
+1659018120539,3956,Contact Us,200,OK,Thread Group 1-9,text,true,,119419,131,9,9,https://ajkerdeal.com/contactus.aspx,512,0,0
+1659018122195,2676,Replacement Policy,200,OK,Thread Group 1-6,text,true,,110617,139,8,8,https://ajkerdeal.com/replacementpolicy.aspx,944,0,337
+1659018121008,4071,Replacement Policy,200,OK,Thread Group 1-3,text,true,,110617,139,8,8,https://ajkerdeal.com/replacementpolicy.aspx,911,0,337
+1659018119727,5593,Contact Us,200,OK,Thread Group 1-5,text,true,,119419,131,8,8,https://ajkerdeal.com/contactus.aspx,496,0,0
+1659018121786,3904,Contact Us,200,OK,Thread Group 1-2,text,true,,119419,131,7,7,https://ajkerdeal.com/contactus.aspx,1514,0,343
+1659018121069,4900,Contact Us,200,OK,Thread Group 1-7,text,true,,119419,131,6,6,https://ajkerdeal.com/contactus.aspx,1423,0,341
+1659018124872,2341,Contact Us,200,OK,Thread Group 1-6,text,true,,119419,131,5,5,https://ajkerdeal.com/contactus.aspx,712,0,0
+1659018124085,3533,Contact Us,200,OK,Thread Group 1-8,text,true,,119419,131,4,4,https://ajkerdeal.com/contactus.aspx,838,0,336
+1659018125079,3783,Contact Us,200,OK,Thread Group 1-3,text,true,,119419,131,3,3,https://ajkerdeal.com/contactus.aspx,661,0,0
+1659018124392,4487,Contact Us,200,OK,Thread Group 1-10,text,true,,119419,131,2,2,https://ajkerdeal.com/contactus.aspx,866,0,346
+1659018123995,5364,Contact Us,200,OK,Thread Group 1-1,text,true,,119419,131,1,1,https://ajkerdeal.com/contactus.aspx,2507,0,0
